@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "删除一些菜单",
+  "packageName": "@acedatacloud/nexior",
+  "email": "qt_master@163.com",
+  "dependentChangeType": "patch"
+}
