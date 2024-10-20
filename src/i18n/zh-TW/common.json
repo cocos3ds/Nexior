@@ -148,7 +148,7 @@
     "description": "按鈕文本，用於完成某些內容"
   },
   "entity.website": {
-    "message": "Ace Data Cloud",
+    "message": "AI全能助手",
     "description": "網站名稱，无需翻譯，保持為'Ace Data Cloud'"
   },
   "entity.copyright": {
